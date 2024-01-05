@@ -29,6 +29,7 @@ An awesome list of resources and tools for writers.
 - [Forums](#forums)
 - [Miscellaneous](#miscellaneous)
 - [License and contributions](#license-and-contributions)
+- [Related lists](#related-lists)
 
 <!-- CONTENT -->
 
@@ -60,3 +61,17 @@ An awesome list of resources and tools for writers.
 Contributions of any kind welcome, just follow the [guidelines](contributing.md)! Thanks goes to [these contributors](https://github.com/armstrongl/awesome-writing/graphs/contributors)!
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
+## Related lists
+
+Check out these other awesome lists:
+
+- [BolajiAyodeji/awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
+- [lilin90/awesome-technical-communication](https://github.com/lilin90/awesome-technical-communication)
+- [ottekkat/awesome-readme](https://github.com/pottekkat/awesome-readme)
+- [jenniferlynparsons/awesome-writing](https://github.com/jenniferlynparsons/awesome-writing)
+- [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing)
+- [mxm0z/awesome-intelligence-writing](https://github.com/mxm0z/awesome-intelligence-writing)
+- [yowainwright/awesome-writing-tools](https://github.com/yowainwright/awesome-writing-tools)
+- [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain)
