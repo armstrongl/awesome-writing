@@ -39,10 +39,11 @@ An awesome list of resources and tools for writers.
 - [Antidote](https://www.antidote.info) - A writing corrector analyzes your text and flags any detections.
 - [LanguageTool](https://languagetool.org) - An open-source writing assistant, an alternative to Grammarly.
 - [HemingwayApp](https://hemingwayapp.com) - An editor that helps make your writing bold and clear.
+- [Writefull](https://www.writefull.com/) - An editor that helps you revise your text using AI.
 - [Proselint](https://github.com/amperser/proselint) - A command-line utility that collects best practices and common writing errors from several different language guides.
 - [Pandoc](https://pandoc.org/MANUAL) - A Haskell library for converting from
   one markup format to another, and a command-line tool that uses this
-  library :bookmark: :link:.
+  library.
   - [Academic Markdown](https://github.com/smathot/academicmarkdown#readme) - A Python wrapper over Pandoc with specialized extensions to parse certain
     elements, making it a superset of Pandoc Markdown flavour.
   - [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) - A list of
