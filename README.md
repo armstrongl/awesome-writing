@@ -28,8 +28,7 @@ An awesome list of resources and tools for writers.
 - [Courses](#courses)
 - [Forums](#forums)
 - [Miscellaneous](#miscellaneous)
-- [Contributing](#contributing)
-- [License](#license)
+- [License and contributions](#license-and-contributions)
 
 <!-- CONTENT -->
 
@@ -56,12 +55,8 @@ An awesome list of resources and tools for writers.
 <!-- END CONTENT -->
 
 
-## Contributing
+## License and contributions
 
-[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
-
-[Thanks goes to these contributors](https://github.com/armstrongl/awesome-writing/graphs/contributors)!
-
-## License
+Contributions of any kind welcome, just follow the [guidelines](contributing.md)! Thanks goes to [these contributors](https://github.com/armstrongl/awesome-writing/graphs/contributors)!
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
