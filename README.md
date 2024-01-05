@@ -4,18 +4,17 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Writing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/armstrongl/awesome-krita/actions/workflows/lint.yaml/badge.svg)](https://github.com/armstrongl/awesome-krita/actions/workflows/lint.yaml)
+# Awesome Writing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 <!-- subtitle -->
 
-An awesome list of writing resources.
+An awesome list of resources and tools for writers.
 
 <!-- image -->
 
 
 <!-- description -->
 
-A collection of resources and tools for writers.
 
 </div>
 
