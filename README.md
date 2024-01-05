@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Writing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://img.shields.io/badge/license-Creative_Commons-blue)
+# Awesome Writing <br/> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://img.shields.io/badge/license-Creative_Commons-blue)
 
 <!-- subtitle -->
 
