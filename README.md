@@ -29,11 +29,12 @@ An awesome list of resources and tools for writers.
 - [Forums](#forums)
 - [Miscellaneous](#miscellaneous)
 - [Contributing](#contributing)
-  - [Contributors](#contributors)
+- [License](#license)
 
 <!-- CONTENT -->
 
 ## Tools
+
 
 
 ## Blogs
@@ -59,6 +60,8 @@ An awesome list of resources and tools for writers.
 
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
-### Contributors
-
 [Thanks goes to these contributors](https://github.com/armstrongl/awesome-writing/graphs/contributors)!
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
