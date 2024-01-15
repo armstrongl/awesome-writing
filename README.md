@@ -36,13 +36,13 @@ An awesome list of resources and tools for writers.
 
 - [Grammarly](https://grammarly.com) - A writing assistant that goes deeper than grammar to offer you comprehensive writing feedback. 
 - [Antidote](https://www.antidote.info) - A writing corrector analyzes your text and flags any detections.
-- [LanguageTool](https://languagetool.org) - An open-source writing assistant, an alternative to Grammarly.
+- [LanguageTool](https://languagetool.org) - An open-source writing assistant, an alternative to Grammarly. ![Free](media/free.svg)![OSS](media/OSS.svg)
 - [HemingwayApp](https://hemingwayapp.com) - An editor that helps make your writing bold and clear.
 - [Writefull](https://www.writefull.com/) - An editor that helps you revise your text using AI.
-- [Expresso App](https://github.com/mikpanko/expresso) - An interactive tool to analyze, edit and compare text styles in English created by Mikhail Panko. ![](media/free.svg)
+- [Expresso App](https://github.com/mikpanko/expresso) - An interactive tool to analyze, edit and compare text styles in English created by Mikhail Panko. ![fFree](media/free.svg)![Free](media/free.svg)![OSS](media/OSS.svg)
 - [Proselint](https://github.com/amperser/proselint) - A command-line utility that collects best practices and common writing errors from several different language guides.
 - [Pandoc](https://pandoc.org/MANUAL) - A Haskell library for converting from
-  one markup format to another, and a command-line tool that uses this
+  one markup format to another. ![Free](media/free.svg)![OSS](media/OSS.svg)
   library.
   - [Academic Markdown](https://github.com/smathot/academicmarkdown#readme) - A Python wrapper over Pandoc with specialized extensions to parse certain
     elements, making it a superset of Pandoc Markdown flavour.
@@ -51,9 +51,9 @@ An awesome list of resources and tools for writers.
     cross-references.
   - [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
     to John MacFarlane's pandocfilters.
-- [Vale](https://github.com/errata-ai/vale) - A customizable linting through customized style rules.
-- [Alex](https://github.com/get-alex/alex) - A command-line utility that finds gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
-- [OneLook](https://www.onelook.com/) - A collection of tools for improving your writing. It includes a thesaurus, reverse dictionary, and related words search.
+- [Vale](https://github.com/errata-ai/vale) - A customizable linting through customized style rules. ![Free](media/free.svg)![OSS](media/OSS.svg)
+- [Alex](https://github.com/get-alex/alex) - A command-line utility that finds gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text. ![Free](media/free.svg)![OSS](media/OSS.svg)
+- [OneLook](https://www.onelook.com/) - A collection of tools for improving your writing. It includes a thesaurus, reverse dictionary, and related words search. ![Free](media/free.svg)
 
 ## Blogs
 
@@ -104,9 +104,9 @@ by William Zinsser
 
 ### Technical Writing Courses
 
-- [Google Technical Writing Courses](https://developers.google.com/tech-writing/overview)
-- [Tech Writing for Accessibility](https://developers.google.com/tech-writing/accessibility)
-- [Writing Helpful Error Messages](https://developers.google.com/tech-writing/error-messages)
+- [Google Technical Writing Courses](https://developers.google.com/tech-writing/overview) ![Free](media/free.svg)
+- [Tech Writing for Accessibility](https://developers.google.com/tech-writing/accessibility) ![Free](/home/larah/Repos/awesome-writing/free.svg)
+- [Writing Helpful Error Messages](https://developers.google.com/tech-writing/error-messages) ![Free](/home/larah/Repos/awesome-writing/free-1705340183616-6.svg)
 - [Technical Writing: Documentation on Software Projects](https://www.pluralsight.com/courses/technical-writing-software-documentation)
 - [Coding for Writers: Basic Programming](https://udemy.com/course/coding-for-writers-1-basic-programming)
 - [Class Central Technical Writing](https://classcentral.com/course/technical-writing-7117)
@@ -114,16 +114,16 @@ by William Zinsser
 - [Technical Writing: Master Your Writing Career](https://udemy.com/technical-writing)
 - [English 305: Advanced Technical Writing](https://study.com/academy/course/technical-writing-course.html)
 - [Technical Communication Techniques and Principles for Project Managers](https://ce.uwec.edu/programs/technical-communication-techniques-and-principles-project-managers)
-- [Documenting APIs: A Guide for Technical Writers](https://idratherbewriting.com/learnapidoc)
+- [Documenting APIs: A Guide for Technical Writers](https://idratherbewriting.com/learnapidoc) ![Free](/home/larah/Repos/awesome-writing/free-1705340197253-8.svg)
 - [Technical Writing Certification Course](https://aptlearn.io/courses/technical-writing-certification-course)
 - [Tech: Write & Earn](https://startuptrybe.trainercentralsite.com/course/techwriteearn)
 
 ## Miscellaneous
 
-- [Technical Writing Template](https://github.com/BolajiAyodeji/technical-writing-template) - A sample template with guidelines for writing technical articles.
+- [Technical Writing Template](https://github.com/BolajiAyodeji/technical-writing-template) - A sample template with guidelines for writing technical articles. ![Free](media/free.svg)![OSS](media/OSS.svg)
 - [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) - A list of companies that have paid developer community writer programs.
 - [Who Pays Technical Writers?](https://whopaystechnicalwriters.com/?) - A curated collection of active publishers, publications, and agencies that pay fair rates for high-quality technical content.
-- [Diátaxis Documentation System](https://diataxis.fr) - A systematic approach to creating better documentation.
+- [Diátaxis Documentation System](https://diataxis.fr) - A systematic approach to creating better documentation. 
 
 <!-- END CONTENT -->
 
