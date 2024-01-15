@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Writing <br/> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://img.shields.io/badge/license-Creative_Commons-blue)
+# Awesome Writing <br/> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![![CC0](/home/larah/Repos/awesome-writing/license-Creative_Commons-blue.svg+xml)](https://img.shields.io/badge/license-Creative_Commons-blue)[![Awesome](/home/larah/Repos/awesome-writing/badge-flat2.svg+xml)](https://awesome.re)
 
 <!-- subtitle -->
 
@@ -13,8 +13,6 @@ An awesome list of resources and tools for writers.
 <!-- image -->
 
 <!-- description -->
-
-</div>
 
 <!-- TOC -->
 
@@ -40,6 +38,7 @@ An awesome list of resources and tools for writers.
 - [LanguageTool](https://languagetool.org) - An open-source writing assistant, an alternative to Grammarly.
 - [HemingwayApp](https://hemingwayapp.com) - An editor that helps make your writing bold and clear.
 - [Writefull](https://www.writefull.com/) - An editor that helps you revise your text using AI.
+- [Expresso App](https://github.com/mikpanko/expresso) - An interactive tool to analyze, edit and compare text styles in English created by Mikhail Panko. 
 - [Proselint](https://github.com/amperser/proselint) - A command-line utility that collects best practices and common writing errors from several different language guides.
 - [Pandoc](https://pandoc.org/MANUAL) - A Haskell library for converting from
   one markup format to another, and a command-line tool that uses this
@@ -77,14 +76,14 @@ An awesome list of resources and tools for writers.
 - [University of Oxford Style Guide](https://ox.ac.uk/sites/files/oxford/media_wysiwyg/University%20of%20Oxford%20Style%20Guide.pdf)
 - [Mailchimp Content Style Guide](https://styleguide.mailchimp.com/)
 - [MongoDB Documentation Style Guide](https://www.mongodb.com/docs/meta/style-guide/)
-- [NASA's Technical Report Style Guide](https://ntrs.nasa.gov/citations/19930013813)
+- [NASA's Technical Report Style Guide](https://ntrs.nasa.gov/citations/19930013813) 
 - [United States Army Writing Style Guide](https://intellibrary.libguides.com/ld.php?content_id=53826333)
 - [The Analyst's Style Manual](https://ncirc.bja.ojp.gov/sites/g/files/xyckuh326/files/media/document/analysts_style_manual.pdf)
 - [Style guides by various government agencies](https://digital.gov/resources/style-guides-by-government-agencies/)
 
 ## Books
 
-- _The Elements of Style_ by William Strunk, Jr.
+- _The Elements of Style_ by William Strunk, Jr. 
 - _Sin and Syntax: How to Craft Wickedly Effective Prose_ by Constance Hale 
 - _Bird by Bird_ by Anne Lamott 
 - _Dreyer’s English_ by Benjamin Dreyer 
