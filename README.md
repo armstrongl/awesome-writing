@@ -40,10 +40,9 @@ An awesome list of resources and tools for writers.
 - [HemingwayApp](https://hemingwayapp.com) - An editor that helps make your writing bold and clear.
 - [Writefull](https://www.writefull.com/) - An editor that helps you revise your text using AI.
 - [Expresso App](https://github.com/mikpanko/expresso) - An interactive tool to analyze, edit and compare text styles in English created by Mikhail Panko. ![Free](media/free.svg) ![OSS](media/OSS.svg)
-- [Proselint](https://github.com/amperser/proselint) - A command-line utility that collects best practices and common writing errors from several different language guides.
+- [Proselint](https://github.com/amperser/proselint) - A command-line utility that collects best practices and common writing errors from several different language guides. ![Free](media/free.svg) ![OSS](media/OSS.svg)
 - [Pandoc](https://pandoc.org/MANUAL) - A Haskell library for converting from
   one markup format to another. ![Free](media/free.svg) ![OSS](media/OSS.svg)
-  library.
   - [Academic Markdown](https://github.com/smathot/academicmarkdown#readme) - A Python wrapper over Pandoc with specialized extensions to parse certain
     elements, making it a superset of Pandoc Markdown flavour.
   - [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) - A list of
@@ -55,10 +54,14 @@ An awesome list of resources and tools for writers.
 - [Alex](https://github.com/get-alex/alex) - A command-line utility that finds gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text. ![Free](media/free.svg) ![OSS](media/OSS.svg)
 - [OneLook](https://www.onelook.com/) - A collection of tools for improving your writing. It includes a thesaurus, reverse dictionary, and related words search. ![Free](media/free.svg)
 
+**[⬆ back to top](#contents)**
+
 ## Blogs
 
 - [I'd Rather Be Writing](http://idratherbewriting.com/) - A blog about technical writing.
 - [Every Page is Page One](https://everypageispageone.com/) - Mark Baker's content strategy and technical communication blog.
+
+**[⬆ back to top](#contents)**
 
 ## Style Guides
 
@@ -82,6 +85,8 @@ An awesome list of resources and tools for writers.
 - [The Analyst's Style Manual](https://ncirc.bja.ojp.gov/sites/g/files/xyckuh326/files/media/document/analysts_style_manual.pdf)
 - [Style guides by various government agencies](https://digital.gov/resources/style-guides-by-government-agencies/)
 
+**[⬆ back to top](#contents)**
+
 ## Books
 
 - _The Elements of Style_ by William Strunk, Jr. 
@@ -96,11 +101,15 @@ by William Zinsser
 - _The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century_ by Steven Pinker 
 - _Writing Down the Bones: Freeing the Writer Within_ by Natalie Goldberg
 
+**[⬆ back to top](#contents)**
+
 ## Courses
 
 - [Writing courses at Maven](https://maven.com/courses/writing)
 - [Writing courses at Harvard University](https://pll.harvard.edu/subject/writing)
 - [Writing courses at Future Learn](https://www.futurelearn.com/subjects/creative-arts-and-media-courses/writing)
+
+**[⬆ back to top](#contents)**
 
 ### Technical Writing Courses
 
@@ -118,12 +127,16 @@ by William Zinsser
 - [Technical Writing Certification Course](https://aptlearn.io/courses/technical-writing-certification-course)
 - [Tech: Write & Earn](https://startuptrybe.trainercentralsite.com/course/techwriteearn)
 
+**[⬆ back to top](#contents)**
+
 ## Miscellaneous
 
 - [Technical Writing Template](https://github.com/BolajiAyodeji/technical-writing-template) - A sample template with guidelines for writing technical articles. ![Free](media/free.svg) ![OSS](media/OSS.svg)
 - [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) - A list of companies that have paid developer community writer programs.
 - [Who Pays Technical Writers?](https://whopaystechnicalwriters.com/?) - A curated collection of active publishers, publications, and agencies that pay fair rates for high-quality technical content.
 - [Diátaxis Documentation System](https://diataxis.fr) - A systematic approach to creating better documentation. 
+
+**[⬆ back to top](#contents)**
 
 <!-- END CONTENT -->
 
