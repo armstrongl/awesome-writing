@@ -33,7 +33,7 @@ An awesome list of resources and tools for writers.
 
 ## Tools
 
-- [Grammarly](https://grammarly.com) - A writing assistant that goes deeper than grammar to offer you comprehensive writing feedback.
+- [Grammarly](https://grammarly.com) - A writing assistant that goes deeper than grammar to offer you comprehensive writing feedback. ![$][cash]
 - [Antidote](https://www.antidote.info) - A writing corrector analyzes your text and flags any detections.
 - [LanguageTool](https://languagetool.org) - An open-source writing assistant, an alternative to Grammarly.
 - [HemingwayApp](https://hemingwayapp.com) - An editor that helps make your writing bold and clear.
