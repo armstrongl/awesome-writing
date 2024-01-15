@@ -36,13 +36,13 @@ An awesome list of resources and tools for writers.
 
 - [Grammarly](https://grammarly.com) - A writing assistant that goes deeper than grammar to offer you comprehensive writing feedback. 
 - [Antidote](https://www.antidote.info) - A writing corrector analyzes your text and flags any detections.
-- [LanguageTool](https://languagetool.org) - An open-source writing assistant, an alternative to Grammarly. ![Free](media/free.svg)![OSS](media/OSS.svg)
+- [LanguageTool](https://languagetool.org) - An open-source writing assistant, an alternative to Grammarly. ![Free](media/free.svg) ![OSS](media/OSS.svg)
 - [HemingwayApp](https://hemingwayapp.com) - An editor that helps make your writing bold and clear.
 - [Writefull](https://www.writefull.com/) - An editor that helps you revise your text using AI.
-- [Expresso App](https://github.com/mikpanko/expresso) - An interactive tool to analyze, edit and compare text styles in English created by Mikhail Panko. ![fFree](media/free.svg)![Free](media/free.svg)![OSS](media/OSS.svg)
+- [Expresso App](https://github.com/mikpanko/expresso) - An interactive tool to analyze, edit and compare text styles in English created by Mikhail Panko. ![Free](media/free.svg) ![OSS](media/OSS.svg)
 - [Proselint](https://github.com/amperser/proselint) - A command-line utility that collects best practices and common writing errors from several different language guides.
 - [Pandoc](https://pandoc.org/MANUAL) - A Haskell library for converting from
-  one markup format to another. ![Free](media/free.svg)![OSS](media/OSS.svg)
+  one markup format to another. ![Free](media/free.svg) ![OSS](media/OSS.svg)
   library.
   - [Academic Markdown](https://github.com/smathot/academicmarkdown#readme) - A Python wrapper over Pandoc with specialized extensions to parse certain
     elements, making it a superset of Pandoc Markdown flavour.
@@ -51,8 +51,8 @@ An awesome list of resources and tools for writers.
     cross-references.
   - [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
     to John MacFarlane's pandocfilters.
-- [Vale](https://github.com/errata-ai/vale) - A customizable linting through customized style rules. ![Free](media/free.svg)![OSS](media/OSS.svg)
-- [Alex](https://github.com/get-alex/alex) - A command-line utility that finds gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text. ![Free](media/free.svg)![OSS](media/OSS.svg)
+- [Vale](https://github.com/errata-ai/vale) - A customizable linting through customized style rules. ![Free](media/free.svg) ![OSS](media/OSS.svg)
+- [Alex](https://github.com/get-alex/alex) - A command-line utility that finds gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text. ![Free](media/free.svg) ![OSS](media/OSS.svg)
 - [OneLook](https://www.onelook.com/) - A collection of tools for improving your writing. It includes a thesaurus, reverse dictionary, and related words search. ![Free](media/free.svg)
 
 ## Blogs
@@ -120,7 +120,7 @@ by William Zinsser
 
 ## Miscellaneous
 
-- [Technical Writing Template](https://github.com/BolajiAyodeji/technical-writing-template) - A sample template with guidelines for writing technical articles. ![Free](media/free.svg)![OSS](media/OSS.svg)
+- [Technical Writing Template](https://github.com/BolajiAyodeji/technical-writing-template) - A sample template with guidelines for writing technical articles. ![Free](media/free.svg) ![OSS](media/OSS.svg)
 - [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) - A list of companies that have paid developer community writer programs.
 - [Who Pays Technical Writers?](https://whopaystechnicalwriters.com/?) - A curated collection of active publishers, publications, and agencies that pay fair rates for high-quality technical content.
 - [Diátaxis Documentation System](https://diataxis.fr) - A systematic approach to creating better documentation. 
