@@ -34,12 +34,12 @@ An awesome list of resources and tools for writers.
 
 ## Tools
 
-- [Grammarly](https://grammarly.com) - A writing assistant that goes deeper than grammar to offer you comprehensive writing feedback. [![$][cash]]
+- [Grammarly](https://grammarly.com) - A writing assistant that goes deeper than grammar to offer you comprehensive writing feedback. 
 - [Antidote](https://www.antidote.info) - A writing corrector analyzes your text and flags any detections.
 - [LanguageTool](https://languagetool.org) - An open-source writing assistant, an alternative to Grammarly.
 - [HemingwayApp](https://hemingwayapp.com) - An editor that helps make your writing bold and clear.
 - [Writefull](https://www.writefull.com/) - An editor that helps you revise your text using AI.
-- [Expresso App](https://github.com/mikpanko/expresso) - An interactive tool to analyze, edit and compare text styles in English created by Mikhail Panko. 
+- [Expresso App](https://github.com/mikpanko/expresso) - An interactive tool to analyze, edit and compare text styles in English created by Mikhail Panko. ![](media/free.svg)
 - [Proselint](https://github.com/amperser/proselint) - A command-line utility that collects best practices and common writing errors from several different language guides.
 - [Pandoc](https://pandoc.org/MANUAL) - A Haskell library for converting from
   one markup format to another, and a command-line tool that uses this
