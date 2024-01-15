@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Writing <br/> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![![CC0](/home/larah/Repos/awesome-writing/license-Creative_Commons-blue.svg+xml)](https://img.shields.io/badge/license-Creative_Commons-blue)[![Awesome](/home/larah/Repos/awesome-writing/badge-flat2.svg+xml)](https://awesome.re)
+# Awesome Writing <br/> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![![CC0](/home/larah/Repos/awesome-writing/license-Creative_Commons-blue.svg+xml)](https://img.shields.io/badge/license-Creative_Commons-blue)
 
 <!-- subtitle -->
 
@@ -13,6 +13,7 @@ An awesome list of resources and tools for writers.
 <!-- image -->
 
 <!-- description -->
+</div>
 
 <!-- TOC -->
 
@@ -33,7 +34,7 @@ An awesome list of resources and tools for writers.
 
 ## Tools
 
-- [Grammarly](https://grammarly.com) - A writing assistant that goes deeper than grammar to offer you comprehensive writing feedback. ![$][cash]
+- [Grammarly](https://grammarly.com) - A writing assistant that goes deeper than grammar to offer you comprehensive writing feedback. [![$][cash]]
 - [Antidote](https://www.antidote.info) - A writing corrector analyzes your text and flags any detections.
 - [LanguageTool](https://languagetool.org) - An open-source writing assistant, an alternative to Grammarly.
 - [HemingwayApp](https://hemingwayapp.com) - An editor that helps make your writing bold and clear.
