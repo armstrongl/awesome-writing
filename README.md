@@ -108,6 +108,7 @@ by William Zinsser
 - [Writing courses at Maven](https://maven.com/courses/writing)
 - [Writing courses at Harvard University](https://pll.harvard.edu/subject/writing)
 - [Writing courses at Future Learn](https://www.futurelearn.com/subjects/creative-arts-and-media-courses/writing)
+- [The Free X Growth Course](https://slappost.app/learn/) - Five no-login lessons on writing to grow on X (Twitter): hooks, threads, X's open-source algorithm, replies, and your profile funnel. ![Free](media/free.svg)
 
 **[⬆ back to top](#contents)**
 
