@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 <!-- title -->
@@ -114,7 +116,7 @@ by William Zinsser
 ### Technical Writing Courses
 
 - [Google Technical Writing Courses](https://developers.google.com/tech-writing/overview) ![Free](media/free.svg)
-- [Tech Writing for Accessibility](https://developers.google.com/tech-writing/accessibility) ![Free](/home/larah/Repos/awesome-writing/free.svg)
+- [Tech Writing for Accessibility](https://developers.google.com/tech-writing/accessibility) ![Free](media/free.svg)
 - [Writing Helpful Error Messages](https://developers.google.com/tech-writing/error-messages) ![Free](/home/larah/Repos/awesome-writing/free-1705340183616-6.svg)
 - [Technical Writing: Documentation on Software Projects](https://www.pluralsight.com/courses/technical-writing-software-documentation)
 - [Coding for Writers: Basic Programming](https://udemy.com/course/coding-for-writers-1-basic-programming)
