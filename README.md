@@ -53,6 +53,7 @@ An awesome list of resources and tools for writers.
 - [Vale](https://github.com/errata-ai/vale) - A customizable linting through customized style rules. ![Free](media/free.svg) ![OSS](media/OSS.svg)
 - [Alex](https://github.com/get-alex/alex) - A command-line utility that finds gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text. ![Free](media/free.svg) ![OSS](media/OSS.svg)
 - [OneLook](https://www.onelook.com/) - A collection of tools for improving your writing. It includes a thesaurus, reverse dictionary, and related words search. ![Free](media/free.svg)
+- [Text Length Tools](https://textlengthtools.com) - Paste text to get word count, character count, reading time, and speaking time at once, plus a free AI writing checker. ![Free](media/free.svg)
 
 **[⬆ back to top](#contents)**
 
